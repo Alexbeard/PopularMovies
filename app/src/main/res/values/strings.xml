@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <string name="fragment_popular">Popular</string>
+    <string name="fragment_favorite">Favorite</string>
+
+    <string name="rating">Rating \u2014 %1$s/%2$s</string>
+    <string name="movie_title">%1$s \u2014 %2$s</string>
+    <string name="dialog_accept_btn_title">Accept</string>
+    <string name="dialog_cancel_btn_title">Cancel</string>
+    <string name="dialog_title">Genres</string>
+</resources>
